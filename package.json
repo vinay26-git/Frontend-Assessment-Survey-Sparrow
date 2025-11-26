@@ -1,0 +1,26 @@
+{
+  "name": "frontend-assessment",
+  "version": "1.0.0",
+  "description": "This project implements a user-friendly, Google Calendar-like interface using only **HTML, CSS, and vanilla JavaScript**. It features dynamic month navigation, the ability to add new events, and sophisticated conflict detection based on event scheduling times.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinay26-git/Frontend-Assessment-Survey-Sparrow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinay26-git/Frontend-Assessment-Survey-Sparrow/issues"
+  },
+  "homepage": "https://github.com/vinay26-git/Frontend-Assessment-Survey-Sparrow#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongodb": "^7.0.0"
+  }
+}
